@@ -1,0 +1,19 @@
+{
+  "name": "curso_angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oskar-g/angular_fk.git"
+  },
+  "author": "oskar-g",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Oskar-g/angular_fk/issues"
+  },
+  "homepage": "https://github.com/Oskar-g/angular_fk#readme"
+}
